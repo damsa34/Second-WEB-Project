@@ -1,0 +1,26 @@
+th:nth-child(1) {
+    width: 25%;
+}
+
+th:nth-child(2) {
+    width: 20%;
+}
+
+th:nth-child(3), th:nth-child(4), th:nth-child(5), th:nth-child(6), th:nth-child(9), th:nth-child(10), 
+th:nth-child(11), th:nth-child(12), th:nth-child(13), th:nth-child(14), th:nth-child(17), 
+th:nth-child(18), th:nth-child(19), th:nth-child(20), th:nth-child(21), th:nth-child(22), th:nth-child(23),
+th:nth-child(24), th:nth-child(25), th:nth-child(26), th:nth-child(27){
+    width: 5%;
+}
+
+th:nth-child(7), th:nth-child(8), th:nth-child(15), th:nth-child(16) {
+    width: 7%;
+}
+
+td img {
+    max-width: 100%;
+    max-height: 100%;
+    width: 75%;
+    height: 75%;
+    border-radius: 40%;
+}
